@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+  color: white;
+  background-color: #5e7e93;
+  border-radius: 8px;
+
+  box-shadow: 0 2px 5px whitesmoke;
+}
+
+.form-group {
+  font-size: 18px;
+}
+input {
+  font-size: x-large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
